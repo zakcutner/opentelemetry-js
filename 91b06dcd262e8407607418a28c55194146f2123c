@@ -1,0 +1,29 @@
+experimental/packages/otlp-exporter-base/test/browser/fetch-transport.test.ts
+  b5bdbc4c2e058e2a 81-83,101-141
+experimental/packages/otlp-exporter-base/src/transport/fetch-transport.ts
+  b5bdbc4c2e058e2a 55-63,73-80,87-99,101-104
+experimental/CHANGELOG.md
+  b5bdbc4c2e058e2a 13
+experimental/packages/otlp-exporter-base/src/index.ts
+  b5bdbc4c2e058e2a 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "91b06dcd262e8407607418a28c55194146f2123c",
+  "prompts": {
+    "b5bdbc4c2e058e2a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20b04980fffe22xemYtik6THwR",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Zak Cutner",
+      "messages": [],
+      "total_additions": 80,
+      "total_deletions": 12,
+      "accepted_lines": 80,
+      "overriden_lines": 0
+    }
+  }
+}
